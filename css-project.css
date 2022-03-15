@@ -2,3 +2,16 @@
     display: flex;
     flex-direction: column;
 }
+
+.one {
+    display: flex;
+}
+
+.two {
+    display: flex;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
